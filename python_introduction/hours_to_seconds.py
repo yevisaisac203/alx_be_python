@@ -1,3 +1,3 @@
-hours = int(2)
-seconds = int(hours * 60 * 60)
+hours = 2
+seconds = hours * 3600
 print(f"{hours}hours is [{seconds}]seconds")
